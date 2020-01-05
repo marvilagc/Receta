@@ -1,0 +1,145 @@
+/* Base */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Typography */
+
+body {
+  margin-block-start: 30pt;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-image: url(https://i.pinimg.com/originals/db/7a/6f/db7a6fcc174888db69de08a7a055a13e.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.h1 {
+  margin-block-start: 30pt;
+  margin-left: 60pt;
+  margin-right: 60pt;
+  font-family: Gabriola;
+  font-size: 18pt;
+  margin-bottom: 15pt;
+  font-stretch: semi-condensed;
+  text-align: center;
+  background-color: rgb(255, 248, 247, .70 );
+  border-radius: 20px;
+  
+}
+
+p {
+  margin-block-start: 1pt;
+  margin-bottom: 1pt;
+}
+
+.Buttons{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 170pt;
+  margin-right: 30pt;
+  text-align: center;
+  color:rgb(121, 21, 53 );
+  font-weight: 800;
+  padding-inline-start: 5pt;
+  padding-inline-end: 5pt;
+  padding-block-start: 5pt;
+  padding-block-end: 5pt;
+  font-size: 16pt;
+  background-image: url(https://www.partyrama.eu/Images/glitter-pink-design-large-pvc-cake-photography-backdrop-137cm-x-90cm-product-image-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-width: 10pt;
+  border-radius: 10px;  
+
+}
+
+
+.Box1{
+  margin-block-start: 60pt;
+  margin-block-end: 60pt;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-family: Gabriola;
+  color:rgb(121, 21, 53 );
+  font-size: 32pt;
+
+
+}
+
+.BoxTittle{
+  margin-block-start: 30pt;
+  margin-left: 50pt;
+  margin-right: 30pt;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(248, 86, 137 ) ;
+  font-size: 40pt;
+  text-align: center;
+  
+}
+
+.Text1{
+  margin-left: 60pt;
+  margin-right: 400pt;
+  font-family: sans-serif;
+  font-size: 14pt;
+  margin-bottom: 15pt;
+  font-stretch: semi-condensed;
+  text-align: left;
+}
+
+.Text2{
+  font-family: sans-serif;
+  font-size: 12pt;
+  text-align: center;
+}
+
+.Tittle1{
+  margin-left: 30pt;
+  margin-right: 750pt;
+  font-family: sans-serif;
+  font-size: 18pt;
+  font-weight: 800;
+  margin-bottom: 15pt;  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-stretch: semi-condensed;
+  text-align: center;
+  color: white;
+  font-size: 16pt;
+  background-color: rgb(248, 86, 137,.60 );
+  border-width: 5pt;
+  border-radius: 10px;
+}
+.Tittle2{
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+  width: 150pt;
+  font-size: 14pt;
+  font-weight: 800;
+  margin-bottom: 15pt;  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-stretch: semi-condensed;
+  text-align: center;
+  color: white;
+  background-color: rgb(248, 86, 137,.60 );
+  border-width: 5pt;
+  border-radius: 10px;
+
+}
+
+ul {
+  list-style: disc;
+  list-style-position: outside;
+  padding-left: 20pt;
+}
+
+ol {
+  list-style: decimal;
+  list-style-position: outside;
+  padding-left: 20pt; 
+}
+
+/* … */
